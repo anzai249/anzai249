@@ -13,7 +13,7 @@
 - 我的座右铭：苟利国家生死以，其因祸福避趋之。
 - This is my motto↑, how to translate it into English?
 ```
-![魅惑菇](魅惑菇200.gif)
+![HypnoShroom](HypnoShroom.gif)
 
 *特长*
 
