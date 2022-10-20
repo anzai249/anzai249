@@ -14,19 +14,6 @@
 - This is my motto↑, how to translate it into English?
 ```
 
-*特长*
-
-```
-- 3D制作
-- 3D modeling and rendering
-- 视频剪辑
-- Video making
-- P图
-- Photoshop
-```
-
-*后记*
-
 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷😈
 
 ![HypnoShroom](HypnoShroom.gif)
