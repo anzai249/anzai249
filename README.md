@@ -1,6 +1,10 @@
 # anzai249
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anzai249&layout=compact)
 
+![](https://visitor-badge.glitch.me/badge?page_id=anzai249.readme)
+![](https://img.shields.io/badge/Xiaomi-11_Pro-f5010c?style=flat&logo=xiaomi&logoColor=ffffff)
+![](https://img.shields.io/badge/Windows-11-blue?style=flat&logo=windows&logoColor=ffffff)
+
 **👋您好，很高兴您看了我的GitHub页面，祝您秀发丛生！😈**
 
 **👋Ciallo there, welcome to my GitHub page, wishing you beautiful hair forever!😈**
