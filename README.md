@@ -18,6 +18,8 @@
 - This is my motto↑, how to translate it into English?
 ```
 
+![CodeStyle](codestyle.png)
+
 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷😈
 
 ![HypnoShroom](HypnoShroom.gif)
