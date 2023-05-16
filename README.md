@@ -1,5 +1,7 @@
 # anzai249
 ![Most Used Languages](https://github-readme-stats-gamma-lime.vercel.app/api/top-langs/?username=anzai249&layout=compact)
+![HypnoShroom](HypnoShroom.gif)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anzai249.readme)
 ![](https://img.shields.io/badge/Xiaomi-11_Pro-f5010c?style=flat&logo=xiaomi&logoColor=ffffff)
@@ -22,4 +24,3 @@
 
 锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷😈
 
-![HypnoShroom](HypnoShroom.gif)
