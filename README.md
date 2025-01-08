@@ -1,26 +1,42 @@
-# anzai249
-![GitHub stats](https://github-readme-stats-gamma-lime.vercel.app/api?username=anzai249&show_icons=true&locale=cn)
+# Ciallo there, I'm anzai249 👋
+
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, game development, modding, and open-source contributions. 
+
+My motto: 苟利国家生死以，其因祸福避趋之。
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, Python, Java, C++
+- **Web Development:** Vue.js, HTML5, CSS3, Node.js
+- **Databases:** MySQL, MongoDB, SQLite
+- **Tools:** Git, VS Code, Linux, Windows, Unreal Engine 5
+
+## 🌱 What I'm currently learning
+
+- Advanced Vue.js usage
+- Unreal Engine
+- Modding
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats-gamma-lime.vercel.app/api?username=anzai249&show_icons=true)
+
+![Most Used Languages](https://github-readme-stats-gamma-lime.vercel.app/api/top-langs/?username=anzai249&layout=compact&exclude_repo=anzai249.github.io&langs_count=8)
+
+## 📜 My Projects
+
+- [CyberGui](https://github.com/anzai249/CyberGui) - A lightweight anonymous question box.
+- [114k.js](https://github.com/anzai249/114k.js) - A lightweight number abbreviation library.
+- [Mandate of Heaven](https://github.com/anzai249/moh-china-flavour) - A Victoria 3 China flavour pack.
+
+## 💬 Let's Connect!
+
+Feel free to contact me if you want to collaborate on a project, discuss technology, or just say hi!
+
 ![HypnoShroom](HypnoShroom.gif)
-![Most Used Languages](https://github-readme-stats-gamma-lime.vercel.app/api/top-langs/?username=anzai249&layout=compact&exclude_repo=anzai249.github.io&langs_count=8&locale=cn)
 
-![](https://visitor-badge.glitch.me/badge?page_id=anzai249.readme)
-![](https://img.shields.io/badge/Xiaomi-11_Pro-f5010c?style=flat&logo=xiaomi&logoColor=ffffff)
-![](https://img.shields.io/badge/Windows-11-blue?style=flat&logo=windows&logoColor=ffffff)
-
-**👋您好，很高兴您看了我的GitHub页面，祝您秀发丛生！😈**
-
-**👋Ciallo there, welcome to my GitHub page, wishing you beautiful hair forever!😈**
-
-```
-- 大学狗一枚。
-- I'm studying like a dog at university.
-- 我喜欢玩，是个鸽子，别指望我怎么更新。
-- Rest is my favourite thing, more commits go away!
-- 我的座右铭：苟利国家生死以，其因祸福避趋之。
-- This is my motto↑, how to translate it into English?
-```
+---
 
 ![CodeStyle](codestyle-min.png)
 
-锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷😈
-
+⭐️ From [anzai249](https://github.com/anzai249)
