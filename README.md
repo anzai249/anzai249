@@ -19,8 +19,7 @@ My motto: 苟利国家生死以，其因祸福避趋之。
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-gamma-lime.vercel.app/api?username=anzai249&show_icons=true)
-![Most Used Languages](https://github-readme-stats-gamma-lime.vercel.app/api/top-langs/?username=anzai249&layout=compact&exclude_repo=anzai249.github.io&langs_count=8)
+<img src="https://github-readme-stats-gamma-lime.vercel.app/api?username=anzai249&show_icons=true" height=175 /> <img src="https://github-readme-stats-gamma-lime.vercel.app/api/top-langs/?username=anzai249&layout=compact&exclude_repo=anzai249.github.io&langs_count=8" height=175 />
 
 ## 📜 My Projects
 
@@ -30,9 +29,7 @@ My motto: 苟利国家生死以，其因祸福避趋之。
 
 ## 💬 Let's Connect!
 
-Feel free to contact me if you want to collaborate on a project, discuss technology, or just say hi!
-
-![HypnoShroom](HypnoShroom.gif)
+ <img src="https://raw.githubusercontent.com/anzai249/anzai249/refs/heads/main/HypnoShroom.gif" width=30 /> Feel free to contact me if you want to collaborate on a project, discuss technology, or just say hi!
 
 ---
 ⭐️ From [anzai249](https://github.com/anzai249)
