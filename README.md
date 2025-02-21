@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, game development, modding, and open-source contributions. 
 
-My motto: 苟利国家生死以，其因祸福避趋之。
+My motto: 苟利国家生死以，岂因祸福避趋之。
 
 ## 🛠️ Technologies & Tools
 
